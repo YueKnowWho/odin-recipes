@@ -1,0 +1,22 @@
+h1 {
+    background-color: #aa381e;
+    color: #FFB200;
+}
+h2 {
+    background-color: #E27b76;
+    color: #FFF0D9
+}
+h3, ol li {
+    color:rgb(72, 133, 72);
+    font-size: 20px
+}
+body {
+    background-color: #f7f1db; /* You can use any color name, hex code, rgb, or rgba value */
+}
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img {
+    height: auto;
+    width: 500;
+}
