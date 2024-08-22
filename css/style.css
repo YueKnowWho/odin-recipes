@@ -19,4 +19,26 @@ body {
 img {
     height: auto;
     width: 500;
+    margin: 0 auto;
+    display:block;
+}
+.title {
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+}
+.recipe_list li{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(72, 133, 72);
+    color: white;
+    text-decoration: none;
+    border-radius: 5px; /* Slightly rounded corners */
+    transition: background-color 0.3s ease;
+}
+.homepage_description{
+    text-align: center;
+}
+div.recipe_container{
+    text-align: center;
 }
